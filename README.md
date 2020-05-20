@@ -1,3 +1,2 @@
 # DEEP-LEARNING-PRACTISE
-This is to Practise DEEP LEARNING
-Hiee Ankit.
+This will cover basics of Deep Learning & doubt sessions.
